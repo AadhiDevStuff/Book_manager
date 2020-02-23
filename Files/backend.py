@@ -56,6 +56,3 @@ def delete(id):
 
 
 connect()
-#insert("The moon", "doe", 2020, 5689)
-print(view())
-# print(search(author="doe"))
